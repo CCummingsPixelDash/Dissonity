@@ -5,6 +5,6 @@ namespace Dissonity
     [Serializable]
     public class ServerTokenResponse
     {
-        public string token;
+        public string access_token;
     }
 }
